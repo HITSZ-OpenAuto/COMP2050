@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1682916212 source:d:\programs\ds3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
