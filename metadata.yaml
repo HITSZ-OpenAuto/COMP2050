@@ -1,0 +1,143 @@
+ID: "COMP2050"
+SimilarID: []
+Name: "数据结构与算法"
+CourseProperty:
+  Major:
+    - Year: "2019_2020"
+      Name: [ "自动化" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: "大一"
+      Semester: "春"
+  CourseType: "限选"
+  CourseID: "COMP2050"
+  CourseName: "数据结构与算法"
+  Credit: "2.0"
+  CourseHour: "32.0"
+  GPAInfluence: "GPA"
+  GroupCourse:
+    Link: "" 
+    Desc: "课程与面向23级学生新开设的同名课程不同。"
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition:
+    - Name: 作业
+      Percentage: 10
+    - Name: 出勤
+      Percentage: 10
+    - Name: 上机实验
+      Percentage: 20
+    - Name: 期末考试
+      Percentage: 60
+  CourseHourComposition:
+    - Name: 授课
+      Hour: 24
+    - Name: 上机
+      Hour: 8
+    - Name: 实验
+      Hour: 8
+
+  Major:
+    - Year: "2020_2021"
+      Name: [ "自动化" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: "大一"
+      Semester: "春"
+  CourseType: "选修"
+  CourseID: "COMP2050"
+  CourseName: "数据结构与算法"
+  Credit: "2.0"
+  CourseHour: "32.0"
+  GPAInfluence: "GPA"
+  GroupCourse:
+    Link: "" 
+    Desc: "课程与面向23级学生新开设的同名课程不同。"
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition: []
+  CourseHourComposition: []
+
+  Major:
+    - Year: "2021_2022"
+      Name: [ "自动化" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: "大一"
+      Semester: "春"
+  CourseType: "限选"
+  CourseID: "COMP2050"
+  CourseName: "数据结构与算法"
+  Credit: "2.0"
+  CourseHour: "32.0"
+  GPAInfluence: "GPA"
+  GroupCourse:
+    Link: "" 
+    Desc: "课程与面向23级学生新开设的同名课程不同。"
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition: []
+  CourseHourComposition: []
+
+  Major:
+    - Year: "2022_2023"
+      Name: [ "自动化" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: "大一"
+      Semester: "春"
+  CourseType: "限选"
+  CourseID: "COMP2050"
+  CourseName: "数据结构与算法"
+  Credit: "2.0"
+  CourseHour: "32.0"
+  GPAInfluence: "GPA"
+  GroupCourse:
+    Link: "" 
+    Desc: "课程与面向23级学生新开设的同名课程不同。"
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition: []
+  CourseHourComposition: []
+
+  Major:
+    - Year: "2023_2024"
+      Name: [ "自动化" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: "大一"
+      Semester: "春"
+  CourseType: "限选"
+  CourseID: "COMP2050"
+  CourseName: "数据结构与算法"
+  Credit: "2.0"
+  CourseHour: "32.0"
+  GPAInfluence: "GPA"
+  GroupCourse:
+    Link: "" 
+    Desc: "课程与面向23级学生新开设的同名课程不同。"
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition: []
+  CourseHourComposition: []
+
+  Major:
+    - Year: "2024_2025"
+      Name: [ "自动化" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: "大三"
+      Semester: "春"
+  CourseType: "选修"
+  CourseID: "COMP2050"
+  CourseName: "数据结构与算法"
+  Credit: "2.0"
+  CourseHour: "32.0"
+  GPAInfluence: "GPA"
+  GroupCourse:
+    Link: "" 
+    Desc: "课程与面向23级学生新开设的同名课程不同。"
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition: []
+  CourseHourComposition: []
