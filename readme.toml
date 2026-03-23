@@ -1,6 +1,7 @@
 course_name = "数据结构与算法"
-course_code = "COMP2050"
 repo_type = "normal"
+course_code = "COMP2050"
+
 description = """
 请注意，本课程与面向 23 级学生新开设的同名课程（缝合原《数据结构》和《算法导论》的课程）不同。
 原先该课程在大二春季学期开设。
