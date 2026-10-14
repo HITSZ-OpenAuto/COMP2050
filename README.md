@@ -1,11 +1,5 @@
 # COMP2050 - 数据结构与算法
 <!-- TOML-META: repo_type="normal" -->
-<!-- TOML-BADGES: source="grades_summary" -->
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![作业10%](https://img.shields.io/badge/作业-10%25-wheat)
-![实验20%](https://img.shields.io/badge/实验-20%25-wheat)
-![作业70%](https://img.shields.io/badge/作业-70%25-wheat)
 
 请注意，本课程与面向 23 级学生新开设的同名课程（缝合原《数据结构》和《算法导论》的课程）不同。
 原先该课程在大二春季学期开设。
